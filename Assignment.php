@@ -1,5 +1,5 @@
 <?php
-$tuition = 10001;
+$tuition = 20000;
 
 $commission_25_p = round($tuition*.25);
 $commission_20_p = round($tuition*.20);
